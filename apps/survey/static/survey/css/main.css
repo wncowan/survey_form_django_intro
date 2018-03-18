@@ -1,0 +1,6 @@
+/* .center{
+    text-align: center;
+} */
+label, input, select, textarea{
+    display: block;
+}
